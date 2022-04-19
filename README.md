@@ -25,5 +25,6 @@ const data = array[1];
 The console.log(array[0]) prints 50, and data has the value 60.
 
 Create a variable called myData and set it to equal the first value of myArray using bracket notation.
+
 The variable myData should equal the first value of myArray.
 The data in variable myArray should be accessed using bracket notation.
