@@ -9,4 +9,5 @@ except that instead of specifying a character,
 they are specifying an entry in the array.
 
  Like strings,
+ 
 arrays use zero-based indexing,
