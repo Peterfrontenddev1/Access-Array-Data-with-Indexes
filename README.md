@@ -29,4 +29,5 @@ Create a variable called myData and set it to equal the first value of myArray u
 The variable myData should equal the first value of myArray.
 
 The data in variable myArray should be accessed using bracket notation.
+
 const myArray = [50, 60, 70];
