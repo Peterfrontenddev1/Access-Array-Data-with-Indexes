@@ -11,4 +11,5 @@ they are specifying an entry in the array.
  Like strings,
  
 arrays use zero-based indexing,
+
 so the first element in an array has an index of 0.
