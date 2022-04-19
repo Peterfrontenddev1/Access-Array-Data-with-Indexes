@@ -15,3 +15,7 @@ arrays use zero-based indexing,
 so the first element in an array has an index of 0.
 
 Example
+
+const array = [50, 60, 70];
+console.log(array[0]);
+const data = array[1];
